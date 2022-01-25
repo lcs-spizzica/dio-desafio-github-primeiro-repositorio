@@ -1,0 +1,15 @@
+p{
+   font-family: 'Montserrat', Arial; /*definindo a fonte */
+   font-size: 10px; /*definindo o tamanho */
+   font-weight: 600; /*definindo o peso*/
+   line-height: 3 ;  /*definindo o espaçamento */
+}
+
+h1{
+   /*text-align: center; /*definindo o alinhamento dos textos */
+   /*text-decoration: underline; /*definindo uma decoração para o text. exemplo bold*/
+   font-family: 'Geostar', cursive;
+   margin: 45px auto 200px auto;
+   width: 58%;
+   border: 2px solid;
+}

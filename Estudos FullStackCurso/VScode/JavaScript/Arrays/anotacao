@@ -1,0 +1,29 @@
+let array = []
+
+let arraybidimen = [[]]
+
+shift - remove o primeiro elemento
+
+pop - remove o ultimo elemento
+
+push - add um novo elemento no final do array
+
+unshift - add um novo elemento no começo do array
+
+indexof - retorna a posicao do elemento que esta dentro do () na funcao -> quando ele nao econtrar ele retorna -1
+
+-SPLICE-
+Significa 'emendar' ou 'costurar'
+Substitui o array original
+A sintaxe desde método é
+array.splice(index[, deleteCount[, elemento1[, ...[, elementoN]]])
+
+-SLICE-
+Significa 'fatiar' ou 'dividir'
+extrai uma parte do array sem alterar o array original
+a sintaxe deste método é 
+array.slice([begin[, end]])
+
+array.funcaoDeIterar(function(elementoAtual, indice, array){
+<corpo da funcao>
+})

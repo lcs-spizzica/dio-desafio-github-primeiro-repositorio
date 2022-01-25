@@ -1,0 +1,24 @@
+li{
+    color: white;
+}
+h1{  
+    border: 2px dashed orange;
+}
+body{
+    background-image: url("https://www.spaceflightinsider.com/wp-content/uploads/2019/08/spacex-amos-17-scott-schilke-20870.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+.orange-text{
+    color: orange;
+    font-size: 20px;
+}
+
+.big-text{
+    font-size: 40px;
+}
+
+#temisto-text{
+    font-size: 10px;
+    color: black;
+}
